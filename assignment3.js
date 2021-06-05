@@ -1,10 +1,4 @@
-// watch 50 mobile 100 laptop 500
-// 1to10 - 100, 11to20- 80 21-all - 50
-// array long name
-// kilometerToMeter
-// budgetCalculator
-// hotelCost
-// megaFriend
+// https://github.com/nisharga/assignment3
 
 function kilometerToMeter(num){
     if(num < 0){
